@@ -1,0 +1,287 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Components,Due date,Votes,Labels,Labels,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Watchers,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Cloners),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Attachment,Attachment,Attachment,Custom field (1. Old Solution Notes),Custom field (Acceptance Criteria),Custom field (Additional Information),Custom field (Additional Information 2),Custom field (Additional Information 3),Custom field (Assumptions),Custom field (Assumptions),Custom field (Assumptions),Custom field (Blocked 'Other'),Custom field (Blocked Date),Custom field (Blocked Reason),Custom field (Blockers),Custom field (Business Capability),Custom field (Business Owner),Custom field (Business Value),Custom field (Calor Approved By),Custom field (Calor P2 Approved),Custom field (Category),Custom field (Complexity),Custom field (Development),Custom field (Discovered in build version:),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (External Idenitifier),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (FRD Ref),Custom field (Fixed in Build Version),Custom field (Flagged),Custom field (Issue color),Custom field (MP Comments),Custom field (MoSCoW),Custom field (OOTB?),Custom field (Original Scope?),Custom field (Pre-Sales Notes),Custom field (Process),Custom field (Product),Custom field (Project Manager Actual),Custom field (Project Manager Estimate),Custom field (QA Actual),Custom field (QA Estimate),Custom field (Rank),Custom field (Record Types),Custom field (Release Manager Actual),Custom field (Release Manager Estimate),Custom field (Release Status),Custom field (Request Type),Custom field (Request participants),Custom field (Resource Type),Custom field (Role),Satisfaction rating,Custom field (Satisfaction Rating),Custom field (Side Notes),Custom field (Side Notes),Custom field (SoW Reference),Custom field (Solution Notes),Custom field (Solution Notes),Custom field (Source/Event),Sprint,Sprint,Custom field (Sprint Dependencies),Custom field (Start date),Custom field (Story Owner),Custom field (Story Points),Custom field (Story point estimate),Custom field (Summary),Custom field (Target Resolution Date),Custom field (Total Actual),Custom field (Total Estimate),Custom field (Unblocked Date),Custom field (Updated Description),Custom field (Updated Summary),Custom field (Work Type),Custom field ([CHART] Date of First Response),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment
+Create a domestic account and ensure Bio LPG is selected on quote line,CG-3311,63581,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a domestic account and ensure Bio LPG is selected on quote line,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a domestic account and ensure Bio LPG is selected on quote line,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003wn:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42280995,,,,,,,
+"Create a domestic account with multiple DP's, multiple signatories and multiple quote lines",CG-3312,63582,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,"Create a domestic account with multiple DP's, multiple signatories and multiple quote lines",,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,"Create a domestic account with multiple DP's, multiple signatories and multiple quote lines",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003wv:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281023,,,,,,,
+Create a commercial account with CRA,CG-3313,63583,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account with CRA,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account with CRA,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003x3:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281285,,,,,,,
+Create a commercial account and discount all products,CG-3314,63584,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and discount all products,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and discount all products,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003xb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281306,,,,,,,
+Create a commercial account and increase the prices of all line items,CG-3315,63585,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and increase the prices of all line items,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and increase the prices of all line items,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003xj:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281349,,,,,,,
+Create a commercial account and send contract by email,CG-3316,63586,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and send contract by email,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and send contract by email,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003xr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281373,,,,,,,
+Create a commercial account with 47kg product,CG-3317,63587,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account with 47kg product,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account with 47kg product,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003xz:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281390,,,,,,,
+Create a commercial account and have contract sent by post,CG-3318,63588,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and have contract sent by post,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and have contract sent by post,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003y7:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281437,,,,,,,
+Create a commercial account and add telemetry to quote line,CG-3319,63589,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and add telemetry to quote line,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and add telemetry to quote line,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003yf:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281453,,,,,,,
+Create a commercial account and have contract sign now,CG-3320,63590,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and have contract sign now,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and have contract sign now,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003yn:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281517,,,,,,,
+Create a commercial account and make any quote line item free (some will allow this some will not),CG-3321,63591,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and make any quote line item free (some will allow this some will not),,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and make any quote line item free (some will allow this some will not),,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003yv:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;Fail CG-3224,,,,,,,
+"Create a commercial account with multiple DP's, send quote lines to different DP's.",CG-3322,63592,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,"Create a commercial account with multiple DP's, send quote lines to different DP's.",,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,"Create a commercial account with multiple DP's, send quote lines to different DP's.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003z3:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281584,,,,,,,
+Create a Pheasant account without CRA,CG-3323,63593,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a Pheasant account without CRA,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a Pheasant account without CRA,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003zb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281648,,,,,,,
+Create a domestic account and send contract by email,CG-3324,63594,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a domestic account and send contract by email,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a domestic account and send contract by email,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003zj:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281699,,,,,,,
+"Create a domestic account with multiple DP's, send quote lines to different DP's.",CG-3325,63595,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:47 AM,21/Jan/19 10:47 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,"Create a domestic account with multiple DP's, send quote lines to different DP's.",,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,"Create a domestic account with multiple DP's, send quote lines to different DP's.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003zr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:47 AM;Peter.Donohoe;42281710,,,,,,,
+Create a domesticaccount and have contract sent by post,CG-3326,63596,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a domesticaccount and have contract sent by post,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a domesticaccount and have contract sent by post,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i003zz:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281761,,,,,,,
+Create a domestic account and add telemetry to quote line,CG-3327,63597,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a domestic account and add telemetry to quote line,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a domestic account and add telemetry to quote line,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i00407:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281787,,,,,,,
+Create a domestic account and have contract sign now,CG-3328,63598,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a domestic account and have contract sign now,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a domestic account and have contract sign now,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i0040f:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281824,,,,,,,
+Create a commercial account and make any quote line item free (some will allow this some will not),CG-3329,63599,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account and make any quote line item free (some will allow this some will not),,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account and make any quote line item free (some will allow this some will not),,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i0040n:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;Fail CG-3224,,,,,,,
+Create a commercial account with 47kg product,CG-3330,63600,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a commercial account with 47kg product,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a commercial account with 47kg product,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i0040v:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281859,,,,,,,
+Create a new customer account with 3 DPs,CG-3331,63601,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create a new customer account with 3 DPs,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create a new customer account with 3 DPs,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i00413:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281875,,,,,,,
+Create an additional dp for an existing account,CG-3332,63602,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,Peter.Donohoe,Peter.Donohoe,21/Jan/19 10:48 AM,21/Jan/19 10:48 AM,24/Sep/19 1:29 PM,,,,0,Spring_19_Mobile_Regression,,Create an additional dp for an existing account,,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,Create an additional dp for an existing account,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i0041b:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21/Jan/19 10:48 AM;Peter.Donohoe;42281939,,,,,,,
+Repurpose sumsit18,CG-3333,63836,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,High,Done,alexey.ovriakh,Jenni.Street,Jenni.Street,21/Jan/19 3:55 PM,08/Feb/19 2:10 PM,24/Sep/19 1:29 PM,08/Feb/19 2:10 PM,,,0,CNNMaintenance,,,,jstreet,Rmaila,,,,,,,,,,,,,,,,,,,,,,,,,Re-purpose with the merged code for the data team to use.,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,,,,,,,,,,,1|i0021w:,,,,,,,,,,,,,,,,,CNN Sprint 3,CNN Sprint 4,,,,,,,,,,,,,,2019-01-22 12:55:28.014,22/Jan/19 12:55 PM;Rmaila;New sandbox is called SL2UAT. I have cloned Production and deleted all the customer data. Handed over to Alexey to deploy Merge Code.,,,,,,,
+Mass Sales Territory Changes,CG-3334,63838,Story,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,,criccomi,criccomi,21/Jan/19 4:29 PM,21/Jan/19 4:29 PM,24/Sep/19 1:29 PM,,,,0,,,As a System Administrator I would like to be able to fire a mass re-calculation of the assignment logic if there are any sales territory changes within the business.,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. As a system administrator, I must be able to re-run the assignment logic to accommodate any changes in sales territories.
+2. The system must exclude any customer or group accounts that are marked as 'Do Not Transfer' from the automatic logic taking the account highest in the hierarchy.
+3. The system must exclude any opportunities that are marked as 'Do Not Transfer' from the automatic logic.
+4. The changes must only apply to non-national accounts, which are the ones assigned based on postcode
+5. Delivery points must get transferred with theit corresponding accounts",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i005hr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Remove option to convert lead into group account on conversion,CG-3336,63841,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,Done,mayur.vats,Jenni.Street,Jenni.Street,21/Jan/19 4:49 PM,29/May/19 3:52 PM,24/Sep/19 1:29 PM,11/Feb/19 10:17 AM,,,0,CNNMaintenance,,As a sales user I would like to be prevented from converting a lead into a group account so that I cannot do this in error and my opportunity is not at group level.,,alexey.ovriakh,jstreet,Peter.Donohoe,,,,,10800,10800,,0%,10800,10800,,,,,CGP2-4911,,,,,,,,,"1. As a sales user, I must be prevented from selecting the group account option on lead conversion.
+2. An opportunity must never appear at group level.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,,,,,,,,,,,1|i0065q:i,,,,,,,,,,,,,,This will be a validation rule.,,,CNN Sprint 4,,,,,,,,,,,,,,,2019-01-29 07:04:11.204,"29/Jan/19 7:04 AM;Peter.Donohoe;Acc name groupconvert displayed an error when trying to convert to a group and would not allow it. Converted to customer without error or advisory.
+
+
+
+Passed",01/Feb/19 12:05 PM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,,,,,,
+New Mandatory Unit of Measure required on Lead,CG-3339,63883,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,High,Done,mayur.vats,Jenni.Street,Jenni.Street,23/Jan/19 8:53 AM,11/Feb/19 10:17 AM,24/Sep/19 1:29 PM,11/Feb/19 10:17 AM,,,0,CNNMaintenance,,"As a lead qualification user, I would like to be able to add Cylinders as a Unit of Measure on the lead so that I can gather appropriate information to my customer on a mandatory field.",,alexey.ovriakh,jstreet,Peter.Donohoe,,,,,3600,3600,,0%,3600,3600,,,,,,,,,,,,,,"1. As a lead qualification user, I must be able to set the unit of measure on a lead to 'Cylinders'.
+2. I must be prevented from converting a lead without a unit of measure.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,,,,,,,,,,,1|i001ye:,,,,,,,,,,,,,,,,,CNN Sprint 4,,,,,,,,,,,,,,,2019-01-29 06:51:43.928,"29/Jan/19 6:51 AM;Peter.Donohoe;Customer acc name Cylonlead, wouldnt allow saving without unit of measure, add cylinder and saved without further error. Converted without error or advisory.
+
+
+
+Passed.",01/Feb/19 10:40 AM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,,,,,,
+[NOT REQUIRED] Nil take field,CG-3342,63895,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,Done,,criccomi,criccomi,23/Jan/19 11:54 AM,14/May/19 1:57 PM,24/Sep/19 1:29 PM,08/May/19 3:20 PM,,,0,CNNMaintenance,,"As a CRM user, I need to be able to see whether a customer is lapsed so that I fully understand the customer’s profile",,jstreet,,,,,,,,,,,,,,,CGP2-358,,,,,,,,,,,"1. I must be able to see this on the customer's account.
+2. This must be a read-only field",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i005tz:,,,,,,,,,,,,,,,,,Not Required,,,,,,,,,,,,,,,2019-01-25 14:24:03.411,"25/Jan/19 2:24 PM;Jenni.Street;Hi [~criccomi] [~jgledhil]
+
+Marking this as not required as this is covered already in the status field of the account, any questions please let [~Emma.Mouat] know.
+
+",,,,,,,
+Value missing Agreement Type field,CG-3343,63896,Bug,Failed,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,Rmaila,Rmaila,Rmaila,23/Jan/19 12:09 PM,16/Apr/19 12:41 PM,24/Sep/19 1:29 PM,,,,0,,,Agreement type field needs value for Bio agreement. ,,alexey.ovriakh,mallikarjuna.budihal,Peter.Donohoe,Rmaila,santhosh.vinayaka,,,,,,,,,,,,,,,,16/Apr/19 12:40 PM;mallikarjuna.budihal;Bio Issue.docx;https://makepositive.atlassian.net/secure/attachment/46340/Bio+Issue.docx,,,,,,Agreement Type field needs Internal Business Cylinder Agreement Bio,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i005u7:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-01-28 13:22:49.774,28/Jan/19 1:22 PM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,29/Jan/19 4:37 PM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,"16/Apr/19 11:40 AM;Peter.Donohoe;[~santhosh.vinayaka] [~mallikarjuna.budihal]
+
+This is a new agreement type for commercial with bio. Cylinder agreement for commercial and add bio, populate all fields to ensure that all info isbeing pulled through please.","16/Apr/19 12:33 PM;santhosh.vinayaka;Hi,
+
+This has been tested and there is no Bio-Lpg checkbox displayed in the Quote lines. Please find the account details and screenshot given below - 
+
+Account - CommercialBio
+
+","16/Apr/19 12:35 PM;Peter.Donohoe;[~Rmaila] 
+
+[~Les.Mason] ","16/Apr/19 12:40 PM;mallikarjuna.budihal; [^Bio Issue.docx] 
+
+Attached screenshot",,
+[MERGE] - First Order Date cannot be in the past,CG-3349,63920,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Medium,Done,mayur.vats,Jenni.Street,Jenni.Street,24/Jan/19 11:52 AM,11/Feb/19 10:17 AM,24/Sep/19 1:29 PM,11/Feb/19 10:17 AM,,,0,CNNMaintenance,,"Following the validation rule fix, analysis needed to understand the implications of putting through a date in the past as a first order date and understand whether we can put an additional validation to prevent this.
+
+Possiblt use the contract status Ready for Calor Signature",,alexey.ovriakh,jstreet,Peter.Donohoe,smiles,,,,7200,7200,,0%,7200,7200,,,,CG-3166,,,,,,,,,,"1. As a Sales User I can create a customer Quote
+2. I can add at least one product with an Initial Order Quantity > 0
+3. I can specify an Estimated First Delivery Date of >TODAY
+4. I can Save the Quote record
+",,,,,,This is not an issue where a contract is signed in person.,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,SL2IC,Approved,,,Should,,,,,,,,,,1|i005zj:,,,,,,,,,,,,,,"Need to consider when distribution type is both Email and Post.
+
+Need a report for sales support to monitor which contracts are coming close on behalf of Field Sales, also accessible to the Internal Sales.
+
+Validation for today plus 24 hours.
+
+SOLUTION DELIVERY - 
+
+Validation Rule Applied to - SBQQ__Quote__c
+Rule Name - Estimated_1st_Delivery_Date_Not_In_Past
+Error Condition Formula - Estimated_First_Delivery_Date__c < TODAY()+1
+Error Location - Estimated First Delivery Date
+Error Message - The Estimated First Delivery Date cannot be set today or a date in the past - Please review and amend to a suitable date in the future.
+Description - Where an Estimated First Delivery Date is specified it can not be set in the past
+
+**Shouldn't need the Test Classes updated as it appears they have been done in SL2IC (Check in SL2QA before PR creation)**",,,CNN Sprint 3,CNN Sprint 4,,,,,,,,,,,,,,2019-01-24 12:03:26.697,"24/Jan/19 11:53 AM;Jenni.Street;Hi [~smiles]
+
+Clone as requested, do you need me to close the old story?
+
+Thanks
+
+Jenni","24/Jan/19 12:03 PM;smiles;[~Jenni.Street] 
+
+I’ve marked the Original one as Done (not sure it should be in this sprint though) was Deployed a few weeks back at start of Jan
+
+Cheers,
+
+Si",04/Feb/19 4:02 PM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,"06/Feb/19 12:47 PM;Peter.Donohoe;Mallik tested on Platform
+
+
+
+Tested and Pass
+
+accountname-CG‌-3349Retest
+E1-42284478",,,,
+Create Hidden Data Migration Reference Field,CG-3350,63947,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,High,Done,mayur.vats,Jenni.Street,Jenni.Street,25/Jan/19 8:57 AM,20/Feb/19 10:41 AM,24/Sep/19 1:29 PM,11/Feb/19 10:17 AM,,,0,CNNMaintenance,,"As a data migration user, I would like to create a historic reference field on account object that is hidden from users so that I can easily reconcile the data migration and future enquiries onto the WIRE archive.",,alexey.ovriakh,jstreet,Peter.Donohoe,Rmaila,smiles,,,10800,10800,,0%,10800,10800,,,,,,,,,,,,,,"1. As a data migration user, I must be able to see the hidden historic reference on account, case or opportunity.
+2. I must be able to use this reference to search the wire archive.
+3. As a CRM user I must be prevented from seeing the historic reference number on the account, case or opportunity.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,Must,,,,,,,,,,1|i001yd:,,,,,,,,,,,,,,"Field to be created to contain different references on the account object, case object and opportunity object.
+""Archive Account Reference""
+""Archive Case Reference""
+""Archive Opportunity Reference""",,,CNN Sprint 4,,,,,,,,,,,,,,,2019-01-28 16:15:14.595,"28/Jan/19 4:15 PM;Rmaila;[~Peter.Donohoe] These fields are not visible on the page layout as they were to be hidden. If you want to view field setup for say Account follow below:
+
+# Go to *setup*
+# Click *Object Manager*
+# Then click *Account*
+# Click *Fields & Relationships*
+# Search for *Archive Account Reference*
+
+Repeat above steps for Case and opportunity.","29/Jan/19 9:46 AM;Peter.Donohoe;Created but not visible on account, case and opportunity.
+
+
+
+Passed",01/Feb/19 10:14 AM;alexey.ovriakh;[~mayur.vats] deployed to SL2QA/SV2QA - might take 15-30 mins to arrive,20/Feb/19 10:41 AM;smiles;This is for the Purpose of E1 Ref numbers,,,,
+New Fields on the Campaign Search Screen,CG-3353,63950,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,High,Done,mayur.vats,Jenni.Street,Jenni.Street,25/Jan/19 9:05 AM,16/Apr/19 8:29 AM,24/Sep/19 1:29 PM,16/Apr/19 8:28 AM,,,0,CNNMaintenance,,"As a CRM user I would like to be able to see the Campaign Name, Market, Market Sector, SubSector, Type, Status, Start Date and End Date as columns on the Campaign Results search screen so when I am adding a Lead, Contact or a Sales Opportunity to a campaign I can easily see which campaign I need to add them to. ",,alexey.ovriakh,emouat,jstreet,Peter.Donohoe,santhosh.vinayaka,smiles,yogesh.garg,7200,7200,,0%,7200,7200,,,,,,,,08/Feb/19 11:16 AM;Emma.Mouat;Campaign results screen.png;https://makepositive.atlassian.net/secure/attachment/45169/Campaign+results+screen.png,11/Apr/19 11:30 AM;yogesh.garg;Screen Shot 2019-04-11 at 3.41.06 PM.png;https://makepositive.atlassian.net/secure/attachment/46252/Screen+Shot+2019-04-11+at+3.41.06+PM.png,11/Apr/19 11:30 AM;yogesh.garg;Screen Shot 2019-04-11 at 3.41.15 PM.png;https://makepositive.atlassian.net/secure/attachment/46253/Screen+Shot+2019-04-11+at+3.41.15+PM.png,12/Apr/19 8:27 AM;smiles;Screenshot 2019-04-12 at 08.26.54.png;https://makepositive.atlassian.net/secure/attachment/46274/Screenshot+2019-04-12+at+08.26.54.png,16/Apr/19 8:27 AM;Peter.Donohoe;screenshot-1.png;https://makepositive.atlassian.net/secure/attachment/46317/screenshot-1.png,,"1. As a CRM user I must be able to view Campaign Name as a column on the Campaign Results search screen
+2. As a CRM user I must be able to view Market as a column on the Campaign Results search screen
+3. As a CRM user I must be able to view Market Sector as a column on the Campaign Results search screen
+4. As a CRM user I must be able to view SubSector as a column on the Campaign Results search screen
+5. As a CRM user I must be able to view Type as a column on the Campaign Results search screen
+6. As a CRM user I must be able to view Status as a column on the Campaign Results search screen
+7. As a CRM user I must be able to view Start Date as a column on the Campaign Results search screen
+8. As a CRM user I must be able to view End Date as a column on the Campaign Results search screen",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,Must,,,,,,,,,,1|hzzuz2:x,,,,,,,,,,,,,,Updated - Search and Lookup fields to meet requirements of specified fields,,,CNN Sprint 5,,,,,,,,,,,,,,,2019-02-08 11:17:28.39,08/Feb/19 11:17 AM;Emma.Mouat;Screenshot of screen I'm talking about attached,10/Apr/19 11:34 PM;alexey.ovriakh;[~mayur.vats] deployed to your environment (SL2SIT) - might take 15-30 mins to arrive,"11/Apr/19 11:32 AM;yogesh.garg;[~smiles] Set of columns for different list views are appearing different as shown below:
+ !Screen Shot 2019-04-11 at 3.41.06 PM.png|thumbnail!  !Screen Shot 2019-04-11 at 3.41.15 PM.png|thumbnail! 
+
+Also, what is the significance of the Screenshot attached as it is not in sync with the Acceptance criteria and which screen the screenshot referring to?
+
+cc: [~mayur.vats]",11/Apr/19 12:42 PM;alexey.ovriakh;[~mayur.vats] deployed to your environment (SL2SIT) - might take 15-30 mins to arrive,"12/Apr/19 8:29 AM;smiles;[~yogesh.garg]
+The change is relational to the fields displayed on when searching for a record or using a lookup function from another record - This is not a list view change.
+The screen shot on attached is a view from the lookup as it was, this was to used to demonstrate the location where the changes should be visible.
+
+Here is an example of how and what the lookup should reflect the changes.
+
+ !Screenshot 2019-04-12 at 08.26.54.png|thumbnail! 
+
+[~mayur.vats][~Peter.Donohoe]","16/Apr/19 8:22 AM;santhosh.vinayaka;Hi,
+
+This has been tested and is working fine. Please find the campaign given-
+Campaign - Check",16/Apr/19 8:28 AM;Peter.Donohoe; !screenshot-1.png|thumbnail! ,16/Apr/19 8:29 AM;Peter.Donohoe;[~Les.Mason]
+Configuration of the end point for users,CG-3354,63955,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,Done,Rmaila,Jenni.Street,Jenni.Street,25/Jan/19 3:44 PM,08/Feb/19 2:11 PM,24/Sep/19 1:29 PM,08/Feb/19 2:11 PM,,,0,CNNMaintenance,,,,jstreet,,,,,,,7200,7200,,0%,7200,7200,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i0066v:,,,,,,,,,,,,,,,,,CNN Sprint 4,,,,,,,,,,,,,,,,,,,,,,,
+JJ to SM Handover,CG-3355,63956,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,Done,smiles,Jenni.Street,Jenni.Street,25/Jan/19 3:49 PM,08/Feb/19 2:10 PM,24/Sep/19 1:29 PM,08/Feb/19 2:10 PM,,,0,CNNMaintenance,,,,jstreet,,,,,,,43200,43200,,0%,43200,43200,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,,,,,,,,,,,1|i00673:,,,,,,,,,,,,,,,,,CNN Sprint 4,,,,,,,,,,,,,,,,,,,,,,,
+New Domestic & Com Bulk Gas Packages - Platform,CG-3365,64237,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Highest,Done,mayur.vats,Jenni.Street,Jenni.Street,04/Feb/19 4:13 PM,16/Apr/19 9:54 AM,24/Sep/19 1:29 PM,16/Apr/19 7:37 AM,,,0,CNNMaintenance,,"As a sales user I would like to have access to the 8 standardised domestic bulk gas packages (4 new customer, 4 switchers) so that I quote the customer the right price.",,alexey.ovriakh,jstreet,Peter.Donohoe,smiles,,,,21600,21600,,0%,21600,21600,,,,,CGP2-4593,CGP2-4596,,04/Feb/19 4:14 PM;Jenni.Street;Copy of Domestic new business pricing - January 2019.xlsx;https://makepositive.atlassian.net/secure/attachment/45058/Copy+of+Domestic+new+business+pricing+-+January+2019.xlsx,09/Apr/19 9:20 AM;smiles;Dropdown values for new campaign fields - SM Update - Available Values in Config.xlsx;https://makepositive.atlassian.net/secure/attachment/46221/Dropdown+values+for+new+campaign+fields+-+SM+Update+-+Available+Values+in+Config.xlsx,03/Apr/19 5:07 PM;smiles;Pricing proposal 27.3.19 - SMv2.xlsx;https://makepositive.atlassian.net/secure/attachment/46165/Pricing+proposal+27.3.19+-+SMv2.xlsx,,,,"As an Internal Sales user I must be able to - 
+a. 1. Create a Domestic customer Quote on Platform 
+    2. Create a Commercial customer Quote on Platform 
+b. Select Gas as a product and specify the required variables (Qty / Pricing Option / Bio) 
+c. See the Gas starting price and the discount impact to the product line based on the variation of values selected in product config (see the attached Matrix for permutations for expected discounts against gas product).",,,,,,1. Ensure mobile is tested alongside - https://makepositive.atlassian.net/browse/CG-3396,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,Must,,,,,,,,,,1|hzzuz2:i,,,,,,,,,,,,,,,,,CNN Sprint 5,,,,,,,,,,,,,,,2019-04-03 16:07:47.978,"04/Feb/19 4:15 PM;Jenni.Street;I have discussed the requirements with [~smiles] and he has begun to have a look into the solution for this.  This will also translate to mobile. 
+
+cc [~Emma.Mouat] can provide further detail over the types of pricing term when required.","03/Apr/19 5:07 PM;smiles; [^Pricing proposal 27.3.19 - SMv2.xlsx] 
+Attached matrix for Permutations for Gas product configurations Dom & Com","09/Apr/19 9:20 AM;smiles;Adding in delivered values for testing.
+
+Simon
+
+[^Dropdown values for new campaign fields - SM Update - Available Values in Config.xlsx]
+
+",10/Apr/19 5:09 PM;alexey.ovriakh;[~mayur.vats] deployed to your environment (SL2SIT) - might take 15-30 mins to arrive,16/Apr/19 7:37 AM;Peter.Donohoe;Tested extensively as part of the Pricing Testing.,"16/Apr/19 9:54 AM;Peter.Donohoe;42297965
+
+42297826
+
+42297842
+
+42297869
+
+42297922
+
+42297981
+
+42298001
+
+42297800
+
+42298028
+
+42298044
+
+42298087
+
+42298061
+
+42298108
+
+42298141
+
+42298159",,
+Edit Quote Lines screen is missing initial order qty column and as such adds an init order qty,CG-3374,64346,Bug,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,Done,Peter.Donohoe,Peter.Donohoe,Peter.Donohoe,06/Feb/19 12:55 PM,18/Jun/19 8:21 AM,24/Sep/19 1:29 PM,18/Jun/19 8:21 AM,,,0,,,"When adding an item to quote lines via edit quote lines, the initi order qty column is missing and as such an init order qty is being added for delivery regardless of selecting zero for init order qty on product selection.
+
+With this field missing in p2 it makes the initial delivery date mandatory. I have attached p1 and p2 quote line view with the missing field.",,mayur.vats,Peter.Donohoe,,,,,,,,,,,,,,CG-3191,,,,,06/Feb/19 12:54 PM;Peter.Donohoe;Initial order Quantity p1.jpg;https://makepositive.atlassian.net/secure/attachment/45101/Initial+order+Quantity+p1.jpg,06/Feb/19 12:54 PM;Peter.Donohoe;p2.png;https://makepositive.atlassian.net/secure/attachment/45102/p2.png,,,,,initial order qty is viewable in quote lines,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i008db:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-27 05:55:49.173,27/Mar/19 5:55 AM;mayur.vats;Related to CGP2-4200,03/Apr/19 7:26 AM;mayur.vats;Hi [~Peter.Donohoe] Please refer to [~kunal.narula]'s comment on CGP2-4200. This was designed based on the requirements mentioned in the story.,"03/Apr/19 7:43 AM;Peter.Donohoe;This is not my decision Mayur, this is a business decision. [~smiles]",,,,,
+Wire Reference for Data Migration,CG-3386,64398,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Highest,Done,smiles,Jenni.Street,Jenni.Street,08/Feb/19 3:13 PM,25/Feb/19 9:13 AM,24/Sep/19 1:29 PM,25/Feb/19 9:13 AM,,,0,CNNMaintenance,,Field required to support data migration from WIRE.,,jstreet,,,,,,,16200,16200,,0%,16200,16200,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,Must,,,,,,,,,,1|hzzuz2:y,,,,,,,,,,,,,,"Create fields on following Objects  - 
+Lead
+Account
+Contact
+Opportunities
+
+Field Type - Number(10, 0) (External ID)
+Field Name - External_ID_WiRe_Ref__c
+Field Label - External ID - WiRe Ref
+
+Access permission - Systems Admin Only
+Not applied to any page layouts.
+
+Description - 
+This field is to store the WiRe references from the Initial Data Migration to Salesforce - Used for reference only. 
+Visible only to Systems Admin
+
+Help Text - 
+This field is to store the WiRe references from the Initial Data Migration to Salesforce - Used for reference only. 
+Visible only to Systems Admin 
+SHOULD NOT BE VISIBLE ON ANY PAGE LAYOUTS
+",,,CNN Sprint 5,,,,,,,,,,,,,,,,,,,,,,,
+[Not required] Fixed price term field,CG-3388,64422,Story,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,john.adams,criccomi,criccomi,11/Feb/19 3:10 PM,11/Feb/19 3:24 PM,24/Sep/19 1:29 PM,,Integration,,0,,,"As a CRM user, I need to be able to specify the duration of a customer's fixed price so that I can know when the price can be changed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. I must be able to enter the duration of the fixed price
+2. I must be able to enter this as a number",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,,,,,,,,,,,,,,1|i008tz:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Domestic & Com Bulk Gas Packages - Mobile,CG-3396,66191,Story,Complete,CG,Calor Gas Phase 1,software,abbas.mir,,,Highest,Done,Les.Mason,smiles,smiles,09/Apr/19 9:12 AM,18/Apr/19 12:06 PM,24/Sep/19 1:29 PM,18/Apr/19 12:06 PM,,,0,CNNMaintenance,,"As a sales user I would like to have access to the 8 standardised domestic bulk gas packages (4 new customer, 4 switchers) so that I quote the customer the right price.",,darshan.farswan,Peter.Donohoe,smiles,,,,,21600,21600,,0%,21600,21600,,,,CG-3365,CGP2-4596,CGP2-4593,CGP2-4446,09/Apr/19 9:12 AM;smiles;Copy of Domestic new business pricing - January 2019.xlsx;https://makepositive.atlassian.net/secure/attachment/46219/Copy+of+Domestic+new+business+pricing+-+January+2019.xlsx,09/Apr/19 9:12 AM;smiles;Pricing proposal 27.3.19 - SMv2.xlsx;https://makepositive.atlassian.net/secure/attachment/46220/Pricing+proposal+27.3.19+-+SMv2.xlsx,,,,,"As an Field Sales user I must be able to - 
+a. 1. Create a Domestic customer Quote on EVA 
+    2. Create a Commercial customer Quote on EVA 
+b. Select Gas as a product and specify the required variables (Qty / Pricing Option / Bio) 
+c. See on the review and acceptance screen the calculated Gas price in ppl, inclusive of any discounts per the attached Matrix (Net Unit Price)(see the attached Matrix for permutations for expected discounts against gas product).",,,,,,1. Ensure mobile is tested alongside.,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Approved,,,Must,,,,,,,,,,1|i00j27:,,,,,,,,,,,,,,,,,CNN Sprint 5,,,,,,,,,,,,,,,2019-04-15 04:36:30.225,"15/Apr/19 5:36 AM;darshan.farswan;[~smiles] 
+
+Please note the following changes that have been done on Mobile Application :
+
+# Added new values on Pricing Term. These values have been copied from Platform.
+# Removed Storage Option from the Gas page.
+# Removed “Cap After Fixed Period” from Gas layout as it’s not required.
+# The Layout has been aligned after removal of the field.
+# Updated the Calculation from new Price Matrix Table
+
+
+
+[~mayur.vats] [~Peter.Donohoe] ","18/Apr/19 12:06 PM;Peter.Donohoe;fixed and retested
+
+
+
+Mobile.
+
+42298992
+
+42298976
+
+42299047
+
+42299098
+
+42299101
+
+42299119
+
+42299127
+
+42299135
+
+42299143
+
+42299194
+
+42299215
+
+42299223
+
+42299231
+
+42299240
+
+42299258",,,,,,
+[INT] SF -> Global Website  - Stockist finder,CG-3434,68352,Story,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Low,,IGakhal,criccomi,criccomi,11/Jun/19 10:22 AM,20/Aug/19 9:44 AM,24/Sep/19 1:29 PM,,Integration,,0,Dealers,JuneRelease,"As a user, I am able to indicate whether a partner account’s delivery point should appear on the Stockist Finder by checking a box on the DP.",,criccomi,,,,,,,,,,,,,,,,CG-3223,CGP2-5208,,,,,,,,,"1, If True, record must be included in download to Global Website
+2, if false, record must be ignored. 
+3. If True, the following fields must become available: opening hours 
+4. This checkbox must be at DP level to accommodate larger stockists/dealers with multiple shops.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,Must,,,,,,,,,,1|i00vbb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Change of ownership standing charge products not available,CG-3435,68864,Bug,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Highest,,Rmaila,Peter.Donohoe,Peter.Donohoe,28/Jun/19 8:06 AM,28/Jun/19 8:06 AM,24/Sep/19 1:29 PM,,,,0,,,"there arent any change of ownership standing charges availlable in quote lines for overground and underground tank. These need to be added.
+
+[~Rmaila] [~Emma.Mouat] ",,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,change of owner standing charges are available.,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i00y9z:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Website - Stockist finder,CG-3436,70000,Test,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Lowest,,,Peter.Donohoe,Peter.Donohoe,20/Aug/19 9:41 AM,20/Aug/19 9:42 AM,24/Sep/19 12:08 PM,,,,0,,,"As a user, I am able to indicate whether a partner account’s delivery point should appear on the Stockist Finder by checking a box on the DP.",,Peter.Donohoe,,,,,,,,,,,,,,,,,,,,,,,,,,"1, If True, record must be included in download to Global Website
+2, if false, record must be ignored. 
+3. If True, the following fields must become available: opening hours 
+4. This checkbox must be at DP level to accommodate larger stockists/dealers with multiple shops.",,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,,,,,,,,,,,1|i014zr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Create .Net page to call BIS Customer Profile,CG-3437,70040,Story,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Lowest,,sbarker,Emma.Mouat,Emma.Mouat,22/Aug/19 1:38 PM,22/Aug/19 2:00 PM,24/Sep/19 1:29 PM,,,,0,,,"We need a .Net page created that can be called when a user click on a Customer Profile 'button' in Salesforce on the Account object with record Type customer.
+
+The call from SF will pass across the Business Line (Bulk or Cyl) of the current Customer record and the External System Reference (E1 Number)
+
+The .Net page will then call the relevant BIS customer profile report (Bulk or Cylinder) based on the E1 number provided.
+
+The expectation is that the customer profile report will then be displayed in a new window.",,emouat,,,,,,,,,,,,,,,CG-3438,,,,,,,,,,,When the customer profile button is clicked in SF a new window showing the customer profile relevant to the current customer is displayed,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,Should,,,,,,,,,,1|i01583:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Create 'button' to call .Net page to get BIS Customer Profile,CG-3438,70041,Story,Not Started,CG,Calor Gas Phase 1,software,abbas.mir,,,Lowest,,,Emma.Mouat,Emma.Mouat,22/Aug/19 2:00 PM,22/Aug/19 2:00 PM,24/Sep/19 12:12 PM,,,,0,,,"We need to have a Customer Profile button created under the Account Summary section on a Customer record (screen shot of location attached)
+The button (drop down option) will be required to take the Business Line (BULK or CYL) and the External System Reference (E1 Number) from the current record and pass the data from those fields to a .Net page to be created by the Dev team.
+The .Net page will in turn take the data supplied and call the relevant BIS report and display it in a new window.
+ !image-2019-08-22-13-57-10-994.png|thumbnail! ",,emouat,,,,,,,,,,,,,,,,,,,,22/Aug/19 1:57 PM;Emma.Mouat;image-2019-08-22-13-57-10-994.png;https://makepositive.atlassian.net/secure/attachment/48282/image-2019-08-22-13-57-10-994.png,,,,,,Selecting the new Customer Profile option from the Account Summary menu calls the .Net page resulting in a window appearing containing the customer profile report from BIS (internal reporting system) relating to the customer ,,,,,,,,,,,,,,,Unapproved ,,,{},,,,,,,,,,,,Unapproved,,,Should,,,,,,,,,,1|i0158b:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
